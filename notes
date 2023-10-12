@@ -1,0 +1,45 @@
+-> a href="#" is used as a anchor tag but it wont move anywhere
+
+-> a href="#home" will smoothly move to the id named as home but it should be on the same page.
+
+-> smooth scroll behavior for the animated page change
+
+-> border box will include all i.e content padding margin into it
+
+-> :root{} will used to store the content which is repeating or used eventually eg bgcolor
+syntax-> :root{--name:value}
+body{property:var(name);}
+
+-> active class for active hover always
+
+-> use boxicon for icons i.e. copy css line in html file then copy ur icon(choose as a font option)
+
+-> nth of type(2) will target the 2nd of that property whose name is same
+
+-> give same class name to the a tag if u want to perform the same activities on different a tags
+
+->use minimum heading i.e use same heading tag again & again for better view
+
+->to use font awsome tags we have to apply cdn link in html
+
+-> transform: scale(value) will enlarge that div when it get cursor but apply transition : .5s in body(without hover)
+
+
+-> form tag in html is used where interation is required i.e user can input data that is submitted to server eg login/pw
+
+->&copy; will display c
+
+->JS is the advance part which is used on the css attribute to make webpage interactive & dynamic. also used for 3rd part library,frameworks,cookies,local storage,form validation,DOM manipulation. it enhance the functionality
+
+->const elements/paragraphs = document.querySelectorAll(navbar a/'p'/'about'/'header') . this method is used to select multiple items from the DOM(html structure) that matches the given CSS selector. it returns the collection of elements that matches the selector. 
+
+
+.element {
+  animation-name: 
+  animation-duration
+  animation-timing-function
+  animation-delay: 
+  animation-iteration-count
+  animation-direction
+  animation-fill-mode
+}
